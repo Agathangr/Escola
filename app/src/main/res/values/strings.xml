@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SENAI-403-Agatha</string>
+    <string name="turma">Nome da turma</string>
+    <string name="aluno">Nome do aluno</string>
+    <string name="email">Email</string>
+    <string name="prof">Nome do professor</string>
+    <string name="addP">Adicionar um professor</string>
+    <string name="addA">Adicionar um aluno</string>
+    <string name="addT">Adicionar uma turma</string>
+    <string name="Salvar">Salvar</string>
+    <string name="ListaT">Lista de turmas</string>
+    <string name="ListaA">Lista de alunos</string>
+    <string name="ListaP">Lista de professores</string>
+    <string name="Login">Faça login na sua conta</string>
+    <string name="Senha">Senha</string>
+    <string name="Acessar">Acessar</string>
+    <string name="Sair">Sair</string>
+    <string name="CPF">CPF</string>
+    <string name="matricula">Número da Matrícula</string>
+
+
+</resources>
